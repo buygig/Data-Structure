@@ -1,0 +1,17 @@
+{
+  "name": "data-structure",
+  "module": "main.ts",
+  "type": "module",
+  "scripts": {
+    "test": "vitest",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "vite": "^5.4.7",
+    "vitest": "^2.1.1"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
